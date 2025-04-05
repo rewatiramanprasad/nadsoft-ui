@@ -1,6 +1,7 @@
 import React from 'react'
 import NotFound from '../components/NotFound'
 import Dashboard from './Dashboard'
+import { Routes, Route } from 'react-router-dom'
 
 function App() {
   return (
